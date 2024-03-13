@@ -21,7 +21,7 @@
     "firebase": "^9.8.3",
     "mdbreact": "^4.27.0",
     "moment": "^2.24.0",
-    "mui-datatables": "^4.2.2",
+    "mui-datatables": "^4.3.0",
     "papaparse": "^5.3.1",
     "react": "^17.0.0",
     "react-bootstrap": "^1.0.1",
